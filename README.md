@@ -1,5 +1,5 @@
 ![Route Runner](https://github.com/user-attachments/assets/1bc7cf1a-3f01-4af9-9f31-5013ea44603b)
-# **RouteRunner App**
+# **RouteRunner**
 
 **RouteRunner** is a versatile mobile application built using React Native, designed to provide seamless transportation solutions for both Android and iOS users. Whether you need a ride with a driver or prefer to rent a car for yourself, RouteRunner has got you covered.
 
